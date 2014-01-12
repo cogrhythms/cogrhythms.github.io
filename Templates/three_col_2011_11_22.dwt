@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+        "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Cognitive Rhythms Collaborative</title>
+	<!-- TemplateEndEditable -->
+	<style type="text/css" media="all">
+		@import url("../css/reset.css");
+		@import url("../css/cbd.css");
+    </style>	
+	
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="css/ie6.css" />
+	<![endif]-->
+	
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<link href="../css/crc_menu.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+
+<body>
+
+<div id="head">
+<img src="../img/CRC_Banner_v2.gif" border="0" />
+</div>
+
+
+<div id="content">
+<div id="banner_img">
+ <!-- TemplateBeginEditable name="banner" -->
+<img class="hero" src="../images/hero.jpg" border="0" />
+ <!-- TemplateEndEditable -->
+</div>
+ <div id="left-col">
+   <ul id="crc_menu" class="MenuBarVertical">
+    <li><a href="../index.html">Home</a>  </li>
+    <li><a href="#" class="MenuBarItemSubmenu">People</a>
+      <ul>
+        <li><a href="../people_faculty.htm">Faculty</a></li>
+        <li><a href="../people_postdoc.htm">Postdocs</a></li>
+      </ul>
+    </li>
+    <li><a class="MenuBarItemSubmenu" href="#">Research</a>
+      <ul>
+        <li><a href="../research_topics.htm">Topics</a></li>
+        <li><a href="../research_papers.htm">Papers</a></li>
+      </ul>
+    </li>
+    <li><a href="../courses.htm">Courses</a></li>
+    <li><a href="../calendar.htm">Calendar</a></li>
+    <li><a href="../contact.htm">Contact</a></li>
+  </ul>
+</div>
+ <!-- TemplateBeginEditable name="center" --> 
+ <div id="slim-col">
+ <div id="title">
+ Page Name Here
+ </div>
+  <p class="home" style="line-height: 1.7em;">
+  The <b>Cognitive Rhythms Collaborative (CRC)</b> is a group of scientists in the Boston area who have begun to work together to advance our understanding of the brain dynamics underlying cognitive functions such as attention, sensation, motor planning, and memory.  There is a growing consensus that dynamics are central to understanding how the brain works, but major gaps exist in what we know and in how we seek to understand more.  We have focused on the dynamical regime most strongly associated with cognition, rhythmic activity in the frequency range 1 - 200 Hz. Our central aims are to characterize the physiological origins and functions of such rhythms and to understand how pathologies in rhythmic dynamics are related to symptoms and mechanisms of neurological disease.  Mathematical modeling, cutting-edge statistical techniques, and their implementation as computer algorithms are critical to carrying out our program. 
+  </p>
+ </div>
+ <!-- TemplateEndEditable --> 
+ <!-- TemplateBeginEditable name="right" --> 
+
+ <div id="right-col">
+  <img src="../images/brain.jpg" border="0" />
+
+ </div>
+ <!-- TemplateEndEditable --> 
+</div>
+
+
+
+
+
+<div id="foot">
+  <div id="footer-content">
+				<a href="http://www.bu.edu" target="_blank"><img src="../images/BUlogo.gif" border="0" height="47" width="105"/></a>
+				<a href="http://www.mit.edu" target="_blank"><img src="../img/logo_mit.png" width="48" height="48" alt="MIT" /></a>
+                <a href="http://www.nsf.org" target="_blank"><img src="../img/nsf.jpg" border="0" height="49" width="61"/></a>
+ <p>
+ <b>Cognitive Rhythms Collaborative</b><br />
+ 111 Cummington Street<br />
+ Boston, MA 02215<br />
+ <br />
+ <b>Phone:</b> 617-353-4587<br />
+ <b>Fax:</b> 617-353-4889
+ </p>
+  </div>
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-862209-4");
+pageTracker._trackPageview();
+} catch(err) {}
+var MenuBar1 = new Spry.Widget.MenuBar("crc_menu", {imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+</script>
+</body>
+</html>

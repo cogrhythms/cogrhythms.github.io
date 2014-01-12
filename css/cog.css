@@ -1,0 +1,128 @@
+html, body {
+    position: relative;
+    margin-left: 10px;
+    padding: 0;
+    height: auto;
+}
+
+img {
+    border-style: none;
+}
+
+a:link, a:hover, a:active {
+    color: #ca0001;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #990000;
+    text-decoration: none;
+}
+
+#header {
+    position: relative;
+    width: 650px;
+    height: 100px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-bottom: thin solid #8C8C8C;
+}
+
+#footer {
+    width: 650px;
+    height: 120px;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    border-top: thin solid #8C8C8C;
+}
+
+h1 {
+    font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    color: #ca0001;
+    text-align: left;
+    line-height: 18px;
+    padding-top: 45px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: #ca0001;
+    text-align: left;
+    font-variant: small-caps;
+    margin-top: 5px;
+}
+
+#content-wrap {
+    width: 650px;
+}
+
+.subtitle {
+    font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    text-align: left;
+    line-height: 18px;
+    font-weight: bold;
+    border-bottom: thin solid #8C8C8C;
+    margin-bottom: 5px;
+    padding-bottom: 2px;
+    color: #ca0001;
+}
+
+.info {
+    font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    text-align: left;
+    line-height: 20px;
+    margin-bottom: 30px;
+}
+
+table.members {
+    width: 650px; 
+    height: auto;   
+    font-size: 13px;
+}
+
+table.members tr.even {
+    background-color: #ebebeb;
+}
+
+table.members tr.odd {
+    background-color: #ffffff;
+}
+
+table.members th {
+    padding: 10px 2px 5px 0px;
+    font-size: 13px;
+    color: #696565;
+    font-weight: bold; 
+    text-align: left;
+}
+    
+table.members th.job-title {
+    font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-variant: small-caps;
+    text-align: left;
+    color: #000000;
+}
+
+table.members td {
+    padding: 5px 2px 5px 0px;
+}
+    
+table.members td.name {
+    width: 300px;
+    padding: 0px 0px 0px 5px;
+}
+    
+table.members td.phone {
+    width: 150px;
+}
+
+table.members td.email {
+    width: 200px;
+}

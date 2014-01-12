@@ -1,0 +1,188 @@
+#header {
+    font-family: "Lucida Grande", Verdana,Arial,Helvetica,sans-serif;
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    line-height: 33px;
+    width: 800px;
+    margin: 0 0;
+}
+
+.headline {
+    font-family: "Lucida Grande", Verdana,Arial,Helvetica,sans-serif;
+    font-size: 28px;
+    text-align: left;
+    font-weight: bold;
+    line-height: 33px;
+    width: 800px;
+    margin: 0 0;
+}
+
+#announce {
+    font-family: "Lucida Grande", Verdana,Arial,Helvetica,sans-serif;
+    font-size: 20px;
+    text-align: left;
+    line-height: 25px;
+    width: 800px;
+    margin: 0 0;
+}
+
+#links_main {
+    font-family: "Lucida Grande", Verdana,Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    width: 800px;
+    margin: 0 0;
+    height: 150px;
+}
+
+#links {
+    font-family: "Lucida Grande", Verdana,Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    width: 800px;
+    margin: 0 0;
+}
+
+#subtitle {
+    font-family: "Lucida Grande", Verdana,Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    width: 800px;
+    margin: 0 0;
+}
+
+#sponsors {
+    font-family: "Lucida Grande", Verdana,Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    width: 800px;
+    margin: 0 0;
+}
+
+a img{
+    border: 0px;
+}
+
+#content {
+    font-family: "Lucida Grande", Verdana,Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    text-align: left;
+    width: 800px;
+    line-height: 18px;
+    margin: 0 0 0 5px;
+    height: auto !important;
+}
+
+#sessions {
+    position: absolute;
+    font-family: "Lucida Grande", Verdana,Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    text-align: left;
+    width: 700px;
+    line-height: 18px;
+    margin: 0 0 0 5px;
+    left: 0;
+    float: left;
+}
+
+#session-time {
+    font-family: "Lucida Grande", Verdana,Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    text-align: left;
+    width: 100px;
+    line-height: 18px;
+    height: 125px;
+    margin-left: 605px;
+    margin-top: 0px;
+    position: relative;
+}
+
+#cheat {
+    height: 100 px;
+}
+
+.solid-bottom-border-box {
+    border-style: none none solid none;
+    border-width: 0px 0px 1px 0px;
+    border-bottom: 1px solid #aaaaaa;
+    font-family: verdana,arial,helvetica;
+    font-size: 10px;
+    font-weight: bold;
+    color: #333333;
+    text-decoration: none;
+}
+
+.general-medium {
+  font-family: "Lucida Grande",verdana,arial,helvetica;
+  font-size: 12px;
+  color: #333333;
+  text-decoration: none;
+  font-weight: none;
+  line-height: 17px;
+}
+
+.general-medium a {
+  font-family: "Lucida Grande",verdana,arial,helvetica;
+  font-size: 12px;
+  color: #222222;
+  line-height: 17px;
+}
+
+.general-medium a:hover {
+  color: #555555;
+  font-size: 12px;
+}
+
+.solid-border-box {
+    border-top: 1px solid #aaaaaa;
+    border-bottom: 1px solid #aaaaaa;
+    border-left: 1px solid #aaaaaa;
+    border-right: 1px solid #aaaaaa;
+    padding: 5px 5px 5px 5px;
+}
+
+.general-small {
+  font-family: "Lucida Grande",verdana,arial,helvetica;
+  font-size: 9px;
+  color: #333333;
+  text-decoration: none;
+}
+
+.general-small a {
+  font-family: "Lucida Grande",verdana,arial,helvetica;
+  font-size: 9px;
+  color: #222222;
+}
+
+.general-small a:hover {
+  color: #000000;
+  font-weight: bold;
+  font-size: 9px;
+}
+
+.general-large-bold {
+  font-family: "Lucida Grande",verdana,arial,helvetica;
+  font-size: 18px;
+  color: #333333;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.general-large-bold a {
+  font-family: "Lucida Grande",verdana,arial,helvetica;
+  font-size: 18px;
+  color: #222222;
+  font-weight: bold;
+}
+
+.general-large-bold a:hover {
+  color: #555555;
+  font-size: 18px;
+  font-weight: bold;
+}
+
