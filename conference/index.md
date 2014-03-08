@@ -1,10 +1,8 @@
 ---
-layout: default
-title: "Conference"
+layout: subpage
+title: "Rhythmic Dynamics and Cognition"
 ---
  
-[Rhythmic Dynamics and Cognition]({{site.url}}/img/RhythmicDynamicsCognition_crc2013.pdf)
-=================================
 ##June 4-5, 2013
 
 [View Poster Here]({{site.url}}{{site.baseurl}}img/RhythmicDynamicsCognition_crc2013.pdf)
