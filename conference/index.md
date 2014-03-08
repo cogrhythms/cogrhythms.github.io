@@ -1,13 +1,14 @@
 ---
 layout: subpage
-title: "Rhythmic Dynamics and Cognition"
+title: "Rhythmic Dynamics and Cognition Conference"
 ---
  
 ##June 4-5, 2013
 
-[View Poster Here]({{site.url}}{{site.baseurl}}img/RhythmicDynamicsCognition_crc2013.pdf)
+[View event poster]({{site.url}}/img/RhythmicDynamicsCognition_crc2013.pdf)
+[View event videos on The Science Network](http://thesciencenetwork.org/programs/rhythmic-dynamics-and-cognition)
 
-The Rhythmic Dynamics and Cognition Conference was a two-day event sponsored by the [Cognitive Rhythms Collaborative (CRC)]({{site.url}}{{site.baseurl}}). The program was held at the Brain Building (Building 46) on the MIT campus and included lectures, a reception, and a poster session.
+The Rhythmic Dynamics and Cognition Conference was a two-day event sponsored by the [Cognitive Rhythms Collaborative (CRC)]({{site.url}}{{site.baseurl}}), held at the Brain Building (Building 46) on the MIT campus in 2013. Proceedings included lectures, a reception, and a poster session. Videos of the lectures and an archive of the program are provided here.
 
 ##Invited speakers:
 
