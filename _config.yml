@@ -6,4 +6,4 @@ source: .
 # These can be edited by us
 name: Cognitive Rhythms Collaborative
 markdown: redcarpet
-baseurl: crc_website/
+baseurl: /crc_website/
