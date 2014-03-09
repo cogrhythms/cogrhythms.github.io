@@ -1,3 +1,9 @@
+# These are set by GitHub Pages
+safe: true
+lsi: false
+pygments: true
+source: .
+# These can be edited by us
 name: Cognitive Rhythms Collaborative
 markdown: redcarpet
-pygments: true
+baseurl: /crc_website/
