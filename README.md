@@ -16,4 +16,3 @@ Here's Nick's list of things that still need fixing on this site:
 * We should transition from html to markdown wherever possible.
 * We should probably move lists of data to files in the `_data` directory. More info on how to work with those can be found at [jekyllrb.com/docs/datafiles/](http://jekyllrb.com/docs/datafiles/).
 * The site could definitely use a facelift, and should probably look more bootstrap-ish.
-* [The Science Network](http://thesciencenetwork.org/) is really slow right now, so I'm having trouble getting the embedding urls for the last few conference videos. I'll wrap that up soon.
