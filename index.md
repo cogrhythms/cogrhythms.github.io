@@ -1,38 +1,7 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-        "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><!-- InstanceBegin template="/Templates/two_col.dwt" codeOutsideHTMLIsLocked="false" -->
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<!-- InstanceBeginEditable name="doctitle" -->
-	<title>Cognitive Rhythms Collaborative</title>
-	<!-- InstanceEndEditable -->
-	<style type="text/css" media="all">
-		@import url("css/reset.css");
-		@import url("css/cbd.css");
-    </style>	
-	
-	<!--[if IE]>
-	<link rel="stylesheet" type="text/css" href="css/ie6.css" />
-	<![endif]-->
-	
-<script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
-<link href="css/crc_menu.css" rel="stylesheet" type="text/css" />
-<!-- InstanceBeginEditable name="head" -->
-	
-
-<style type="text/css" media="all">
-		@import url("css/reset.css");
-		@import url("css/cbd.css");
-    </style>	
-	
-	<!--[if IE]>
-	<link rel="stylesheet" type="text/css" href="css/ie6.css" />
-	<![endif]-->
-	
-<script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
-<link href="css/crc_menu.css" rel="stylesheet" type="text/css" />
-<!-- InstanceEndEditable -->
-</head>
+---
+layout: blank
+title: "Cognitive Rhythms Collaborative"
+---
 
 <body>
 
@@ -69,9 +38,7 @@
 	<li><a href="conference.htm"><b>Conference</b></a></li>
   </ul>
 </div>
- 
  <div id="one-col">
- <!-- InstanceBeginEditable name="center" -->
   <p class="home" style="line-height: 1.7em;">
     The <b>Cognitive Rhythms Collaborative (CRC)</b> is a group of scientists in the Boston area who work together to advance our understanding of the brain dynamics underlying cognitive functions such as sensory processing, attention,
 learning, memory and motor planning.</p>
@@ -80,13 +47,16 @@ learning, memory and motor planning.</p>
   <p class="home" style="line-height: 1.7em;">The CRC is supported by the <a href="http://www.nsf.org" target="_blank">National Science Foundation</a> and the <a href="http://mcgovern.mit.edu" target="_blank">McGovern Center</a>.</p>
 
 <h1>News and Events</h1>
+
+---
+
 <p class="home"><b>Rhythmic Dynamics and Cognition Conference:</b> <a href="http://thesciencenetwork.org/programs/rhythmic-dynamics-and-cognition">Videos now available!</a></p>
- 
+
+--- 
+
   <iframe src="https://www.google.com/calendar/embed?mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=j0dmopro3gm68jcjsc7c3ssklo%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=America%2FNew_York" style=" border-width:0 " width="720px" height="200" frameborder="0" scrolling="no"></iframe>
   
-<!-- InstanceEndEditable -->
  </div>
- 
 </div>
 
 
@@ -125,4 +95,4 @@ pageTracker._trackPageview();
 var MenuBar1 = new Spry.Widget.MenuBar("crc_menu", {imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
 </script>
 </body>
-<!-- InstanceEnd --></html>
+</html>
