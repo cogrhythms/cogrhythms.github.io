@@ -3,15 +3,14 @@ layout: default
 title: "Cognitive Rhythms Collaborative"
 ---
 
-The <b>Cognitive Rhythms Collaborative (CRC)</b> is a group of scientists in the Boston area who work together to advance our understanding of the brain dynamics underlying cognitive functions such as sensory processing, attention,
-learning, memory and motor planning.
+The **Cognitive Rhythms Collaborative (CRC)** is a group of scientists in the Boston area who work together to advance our understanding of the brain dynamics underlying cognitive functions such as sensory processing, attention, learning, memory and motor planning.
   
-The members of the CRC come from multiple institutions around the Boston area and beyond (see <a href="people_faculty.htm">Faculty</a>). We encourage those who are interested in working with us or participating in our events to contact Nancy Kopell (nk at bu.edu).
+The members of the CRC come from multiple institutions around the Boston area and beyond [Faculty]({{ site.url }}{{ site.baseurl }}people/faculty/)). We encourage those who are interested in working with us or participating in our events to contact Nancy Kopell (nk at bu.edu).
 
-The CRC is supported by the <a href="http://www.nsf.org" target="_blank">National Science Foundation</a> and the <a href="http://mcgovern.mit.edu" target="_blank">McGovern Center</a>.
+The CRC is supported by the [National Science Foundation](http://www.nsf.org) and the [McGovern Center](http://mcgovern.mit.edu).
 
 # News and Events
-# [Spring 2014 Mini-Symposium: Frontiers in Non-Invasive Brain Stimulation](img/CRC2014F-Mini-Symposium.pdf)
+## [Spring 2014 Mini-Symposium: Frontiers in Non-Invasive Brain Stimulation](img/CRC2014F-Mini-Symposium.pdf)
 
 ### Cognitive Rhythms Collaborative and Center for Computational Neuroscience and Neural Technology
 
@@ -20,9 +19,7 @@ The CRC is supported by the <a href="http://www.nsf.org" target="_blank">Nationa
 ### Wednesday, April 16, 2014 at 1 pm
 
 Boston University Photonics Center 206
-
 8 Saint Mary Street
-
 Boston, MA 02215
 
 * 1:00 - 1:15  Registration
@@ -36,10 +33,6 @@ Boston, MA 02215
 * 3:45 - 4:30  Dr. Alvaro Pascual-Leone, Harvard Medical School
   * "Characterizing and guiding brain networks with noninvasive brain stimulation"
 * 4:30    Discussion / Reception
-
----
-
-<p class="home"><b>Rhythmic Dynamics and Cognition Conference:</b> <a href="http://thesciencenetwork.org/programs/rhythmic-dynamics-and-cognition">Videos now available!</a></p>
 
 --- 
 
