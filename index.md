@@ -3,27 +3,26 @@ layout: default
 title: "Cognitive Rhythms Collaborative"
 ---
 
-  <p class="home" style="line-height: 1.7em;">
-    The <b>Cognitive Rhythms Collaborative (CRC)</b> is a group of scientists in the Boston area who work together to advance our understanding of the brain dynamics underlying cognitive functions such as sensory processing, attention,
-learning, memory and motor planning.</p>
+The <b>Cognitive Rhythms Collaborative (CRC)</b> is a group of scientists in the Boston area who work together to advance our understanding of the brain dynamics underlying cognitive functions such as sensory processing, attention,
+learning, memory and motor planning.
   
-  <p class="home">The members of the CRC come from multiple institutions around the Boston area and beyond (see <a href="people_faculty.htm">Faculty</a>). We encourage those who are interested in working with us or participating in our events to contact Nancy Kopell (nk at bu.edu).
-  <p class="home" style="line-height: 1.7em;">The CRC is supported by the <a href="http://www.nsf.org" target="_blank">National Science Foundation</a> and the <a href="http://mcgovern.mit.edu" target="_blank">McGovern Center</a>.</p>
+The members of the CRC come from multiple institutions around the Boston area and beyond (see <a href="people_faculty.htm">Faculty</a>). We encourage those who are interested in working with us or participating in our events to contact Nancy Kopell (nk at bu.edu).
 
-<h1>News and Events</h1>
+The CRC is supported by the <a href="http://www.nsf.org" target="_blank">National Science Foundation</a> and the <a href="http://mcgovern.mit.edu" target="_blank">McGovern Center</a>.
 
----
-
+# News and Events
 # [Spring 2014 Mini-Symposium: Frontiers in Non-Invasive Brain Stimulation](img/CRC2014F-Mini-Symposium.pdf)
 
 ### Cognitive Rhythms Collaborative and Center for Computational Neuroscience and Neural Technology
 
 #### Registration free, but required. Email [xiaoshi@bu.edu](mailto:xiaoshi@bu.edu?Subject=Mini-Symposium%20registration").
 
-Wednesday, April 16, 2014 at 1 pm
+### Wednesday, April 16, 2014 at 1 pm
 
-Boston University Photonics Center 206<br/>
-8 Saint Mary Street<br/>
+Boston University Photonics Center 206
+
+8 Saint Mary Street
+
 Boston, MA 02215
 
 * 1:00 - 1:15  Registration
