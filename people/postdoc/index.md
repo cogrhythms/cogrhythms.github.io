@@ -1,16 +1,9 @@
 ---
-layout: default
-title: "People - Postdoc"
+layout: subpage
+title: "People - Postdocs"
 ---
-<div id="title">
-  People: Postdocs
-</div>
-<p>
-  Click on a name to view or hide details.
-</p>
-<p>
-  Last update: 1 October 2012
-</p>
+####Click on a name to view or hide details. Last update: 1 October 2012
+
 <div id="Post1" class="CollapsiblePanel">
   <div class="CollapsiblePanelTab" tabindex="0">
     <div class="name">

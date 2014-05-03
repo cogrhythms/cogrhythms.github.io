@@ -1,11 +1,9 @@
 ---
-layout: default
+layout: subpage
 title: "People - Faculty"
 ---
-<div id="title">People: Faculty</div>
-<p>Click on a name to view or hide details.</p>
-<p>Last update: 10 December 2012</p>
-<h1>Director</h1>
+####Click on a name to view or hide details. Last update: 10 December 2012
+##Director
 <div id="Fac1" class="CollapsiblePanel">
   <div class="CollapsiblePanelTab" tabindex="0">
     <div class="name">Nancy Kopell</div>
@@ -24,7 +22,7 @@ title: "People - Faculty"
   simulation, and geometric singular perturbations.</p></div>
 </div>
 
-<h1>Executive Committee</h1>
+##Executive Committee
 <div id="Fac5" class="CollapsiblePanel">
   <div class="CollapsiblePanelTab" tabindex="0">
     <div class="name">Ed Boyden</div>
@@ -103,7 +101,7 @@ title: "People - Faculty"
   <p>The Miller Lab uses experimental and theoretical approaches to study the neural basis of the high-level cognitive functions that underlie complex goal-directed behavior. The focus is on the frontal lobe, the region of the brain most elaborated in humans and linked to neuropsychiatric disorders.  They have provided insights into how categories, concepts, and rules are learned, how attention is focused, and how the brain coordinates thought and action.  To this end, the Miller Lab has innovated techniques for studying the activity of many neurons in multiple brain areas simultaneously, which has provided insight into how interactions within local and global networks of neurons interact and collaborate.  This work has established a foundation upon which to construct more detailed, mechanistic accounts of how executive control is implemented in the brain and its dysfunction in diseases such as autism, schizophrenia and attention deficit disorder.</p></div>
 </div>
 
-<h1 style="padding-top:14px">Affiliated Faculty</h1>
+##Affiliated Faculty
 <div id="Fac7" class="CollapsiblePanel">
   <div class="CollapsiblePanelTab" tabindex="0">
     <div class="name">Seppo P. Ahlfors</div>
