@@ -111,6 +111,7 @@ img.map {
 	
 h1 {
 	margin: 10px 0px 15px 0px;
+	padding: 0px 0px 5px 0px;
 	font-size: 20px;
 	color: #ca0001;
 	border-bottom: 2px solid #BBB;
