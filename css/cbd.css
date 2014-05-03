@@ -110,10 +110,12 @@ img.map {
 }
 	
 h1 {
-	margin: 10px 0px 6px 0px;
+	margin: 10px 0px 15px 0px;
 	font-size: 20px;
 	color: #ca0001;
-	}
+	border-bottom: 2px solid #BBB;
+}
+
 #title {
 	margin: 0px 0px 15px 0px;
 	font-size: 24px;
