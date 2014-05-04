@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: subpage
 title: "Research - Papers"
 ---
-<div id="title">Research: Papers</div>
+
 <p>Last updated: 1 October 2012</p>
 <h1>Published</h1>
 <h2>2012</h2>
@@ -461,7 +461,4 @@ Talei Franzesi, G., Borgers, C., Qian, X., Li, M., Han, X., Kopell, N. J., Le Be
 Vaina LM, Rana K, and Hämäläinen M (2011) "Cortical dynamics of perception and decision in sensory tasks: an MEG study", HBM 2011 abstract, to be published in NeuroImage:"
 </li>
 </ul>
-
--->
-
  

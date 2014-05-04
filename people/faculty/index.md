@@ -2,6 +2,7 @@
 layout: subpage
 title: "People - Faculty"
 ---
+
 ####Click on a name to view or hide details. Last update: 10 December 2012
 ##Director
 <div id="Fac1" class="CollapsiblePanel">
@@ -401,98 +402,3 @@ title: "People - Faculty"
   Taken together, these approaches contribute to the overall research objective: to understand the link from cellular/subcellular mechanisms of plasticity, to neural ensemble representations and interactions, to learning, memory, behavior, and cognition.
   </p></div>
 </div>
-
-<script type="text/javascript">
-  var CollapsiblePanel1 = new Spry.Widget.CollapsiblePanel("Fac1", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel2 = new Spry.Widget.CollapsiblePanel("Fac2", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel3 = new Spry.Widget.CollapsiblePanel("Fac3", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel4 = new Spry.Widget.CollapsiblePanel("Fac4", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel5 = new Spry.Widget.CollapsiblePanel("Fac5", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel6 = new Spry.Widget.CollapsiblePanel("Fac6", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel7 = new Spry.Widget.CollapsiblePanel("Fac7", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel8 = new Spry.Widget.CollapsiblePanel("Fac8", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel9 = new Spry.Widget.CollapsiblePanel("Fac9", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel10 = new Spry.Widget.CollapsiblePanel("Fac10", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel11 = new Spry.Widget.CollapsiblePanel("Fac11", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel12 = new Spry.Widget.CollapsiblePanel("Fac12", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel13 = new Spry.Widget.CollapsiblePanel("Fac13", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel14 = new Spry.Widget.CollapsiblePanel("Fac14", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel15 = new Spry.Widget.CollapsiblePanel("Fac15", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel16 = new Spry.Widget.CollapsiblePanel("Fac16", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel17 = new Spry.Widget.CollapsiblePanel("Fac17", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel18 = new Spry.Widget.CollapsiblePanel("Fac18", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel19 = new Spry.Widget.CollapsiblePanel("Fac19", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel20 = new Spry.Widget.CollapsiblePanel("Fac20", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel21 = new Spry.Widget.CollapsiblePanel("Fac21", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel22 = new Spry.Widget.CollapsiblePanel("Fac22", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel23 = new Spry.Widget.CollapsiblePanel("Fac23", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel24 = new Spry.Widget.CollapsiblePanel("Fac24", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel25 = new Spry.Widget.CollapsiblePanel("Fac25", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel26 = new Spry.Widget.CollapsiblePanel("Fac26", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel27 = new Spry.Widget.CollapsiblePanel("Fac27", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel28 = new Spry.Widget.CollapsiblePanel("Fac28", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel29 = new Spry.Widget.CollapsiblePanel("Fac29", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel30 = new Spry.Widget.CollapsiblePanel("Fac30", {contentIsOpen:false});
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel31 = new Spry.Widget.CollapsiblePanel("Fac31", {contentIsOpen:false});
-</script>
-

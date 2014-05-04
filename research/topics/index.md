@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: subpage
 title: "Research - Topics"
 ---
-<div id="title">Research: Topics</div>
+
 <p><a href="people_faculty.htm">Researchers</a> are listed below each major research area</p>
 <p>Last update: 1 October 2012</p>
 

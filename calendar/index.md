@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: subpage
 title: "Calendar"
 ---
 
-<div id="title">
-  Calendar
-</div>
 <div id="news">
   <p class="home" style="line-height: 1.3em;">[4-5 Jun 2013] CRC Conference: Rhythmic Dynamics and Cognition</p>
 

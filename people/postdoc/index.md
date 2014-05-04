@@ -2,6 +2,7 @@
 layout: subpage
 title: "People - Postdocs"
 ---
+
 ####Click on a name to view or hide details. Last update: 1 October 2012
 
 <div id="Post1" class="CollapsiblePanel">
@@ -206,54 +207,3 @@ title: "People - Postdocs"
     </p>
   </div>
 </div>
-
-<script type="text/javascript">
-  var CollapsiblePanel1 = new Spry.Widget.CollapsiblePanel("Post1", {
-  contentIsOpen : false
-  });
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel2 = new Spry.Widget.CollapsiblePanel("Post2", {
-  contentIsOpen : false
-  });
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel3 = new Spry.Widget.CollapsiblePanel("Post3", {
-  contentIsOpen : false
-  });
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel4 = new Spry.Widget.CollapsiblePanel("Post4", {
-  contentIsOpen : false
-  });
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel5 = new Spry.Widget.CollapsiblePanel("Post5", {
-  contentIsOpen : false
-  });
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel6 = new Spry.Widget.CollapsiblePanel("Post6", {
-  contentIsOpen : false
-  });
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel7 = new Spry.Widget.CollapsiblePanel("Post7", {
-  contentIsOpen : false
-  });
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel8 = new Spry.Widget.CollapsiblePanel("Post8", {
-  contentIsOpen : false
-  });
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel9 = new Spry.Widget.CollapsiblePanel("Post9", {
-  contentIsOpen : false
-  });
-</script>
-<script type="text/javascript">
-  var CollapsiblePanel10 = new Spry.Widget.CollapsiblePanel("Post10", {
-  contentIsOpen : false
-  });
-</script>
