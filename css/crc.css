@@ -1,3 +1,74 @@
+/* Page structure */
+#container {
+    padding: 5px;
+    width: 960px;
+    margin: 20px auto;
+}
+#header {
+    height: 180px;
+}
+#sidebar {
+    width: 300px;
+    float: left;
+}
+#content {
+    width: 600px;
+    float: right;
+}
+#footer {
+    clear: both;
+}
+
+/*************************************
+Media queries for various screen sizes
+**************************************/
+/* for 980px or less */
+@media screen and (max-width: 980px) {
+    
+    #container {
+	width: 94%;
+	}
+    #content {
+	width: 65%;
+	}
+    #sidebar {
+	width: 30%;
+	}
+
+}
+
+/* for 700px or less */
+@media screen and (max-width: 700px) {
+
+    #content {
+	width: auto;
+	float: none;
+	}
+    #sidebar {
+	width: auto;
+	float: none;
+	}
+
+}
+
+/* for 480px or less */
+@media screen and (max-width: 480px) {
+
+    #header {
+	height: auto;
+	}
+    h1 {
+	font-size: 24px;
+	}
+    #sidebar {
+	display: none;
+	}
+
+}
+
+/*************************
+Styling main page elements 
+**************************/
 body {
     font-family: arial, sans-serif; 
     color: #494949;
@@ -5,70 +76,17 @@ body {
     background-color: #fff;
 }
 
-/* Page structure */
-
-#head, #foot {
-    text-align: center; /*this appears to center the header image*/
-    padding: 30px auto;
-}
-
-#content {/*ugh. Where is a good cross-browser basic layout? I don't want to troubleshoot all these pieces.*/
-    position: relative; 
-    top: 0; 
-    left: 0; 
-    width: 943px; 
-    height: auto; 
-    margin: 0px auto; 
-    overflow: hidden;
-}
-
-#foot {
-    height: 120px;
-    margin: 100px 0px 0px 0px;
+#footer {
     background-color: #ddd;
     background-image: url(../images/bottom-gradient.gif);
     border-top: 1px solid #a3a3a3;
-    text-align: center;
-    width: 100%;
     background-repeat: repeat-x;
     background-position: left top;
-    position: relative;
 }
 
-#footer-content {
-    position: relative; 
-    top: 0; 
-    left: 0; 
-    width: 943px; 
-    height: auto; 
-    margin: 0px auto;
-}
-
-#footer-content img {
+#footer img {
     float: left;
     margin: 16px 0px 0px 32px;
-}
-
-#footer-content p {
-    float: left;
-    width: 300px;
-    height: auto;
-    margin: 16px 0px 0px 32px;
-    font-size: 11px;
-    line-height: 1.25em;
-}
-
-#left-col {
-    float: left;
-    top: 0;
-    left: 0;
-    width: 8em;
-    height: auto;
-    margin: 0px 0px 0px 0px;
-}
-
-#one-col {
-    float: left; top: 0; left: 0; width: 720px; height: auto; margin: 0px 0px 0px 42px; font-size: 14px;
 }
 
 /* Text Styling*/
