@@ -1,23 +1,24 @@
 <!DOCTYPE HTML>
 <html lang="en-US" ng-app>
+  {% include head.html %}
+  <body>
 
-{% include head.html %}
-
-<body>
-
-{% include header.html %}
-
-<div id="content">
-
-{% include side_nav.html %}
- 
-	<div id="one-col">
-		{{ content }}
+    <div id="container">
+      <div id="head">
+	{% include header.html %}
+      </div>
+      <div id="body">
+	<div id="sidebar">
+	  {% include side_nav.html %}
 	</div>
+	<div id="content">
+	  {{ content }}
+	</div>
+      </div>
+      <div id="foot">
+	{% include footer.html %}
+      </div>
+    </div>
 
-</div>
-
-{% include footer.html %}
-
-</body>
+  </body>
 </html>
