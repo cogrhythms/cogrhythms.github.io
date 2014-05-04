@@ -19,10 +19,8 @@ The CRC is supported by the [National Science Foundation](http://www.nsf.org) an
 ### Wednesday, April 16, 2014 at 1 pm
 [Event flyer](img/CRC2014F-Mini-Symposium.pdf)
 
-Boston University Photonics Center 206
-
-8 Saint Mary Street
-
+Boston University Photonics Center 206  
+8 Saint Mary Street  
 Boston, MA 02215
 
 * 1:00 - 1:15  Registration
@@ -39,6 +37,6 @@ Boston, MA 02215
 
 --- 
 
-  <iframe src="https://www.google.com/calendar/embed?mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=j0dmopro3gm68jcjsc7c3ssklo%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=America%2FNew_York" style=" border-width:0 " width="720px" height="200" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.google.com/calendar/embed?mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=j0dmopro3gm68jcjsc7c3ssklo%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=America%2FNew_York" style=" border-width:0 " width="720px" height="200" frameborder="0" scrolling="no"></iframe>
 
 
