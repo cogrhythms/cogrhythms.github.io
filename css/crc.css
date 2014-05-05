@@ -5,14 +5,14 @@
     margin: 20px auto;
 }
 #header {
-    height: 180px;
+    height: 130px;
 }
 #sidebar {
-    width: 300px;
+    width: 150px;
     float: left;
 }
 #content {
-    width: 600px;
+    width: 780px;
     float: right;
 }
 #footer {
