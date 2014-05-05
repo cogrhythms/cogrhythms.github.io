@@ -1,4 +1,8 @@
 /* Page structure */
+html, body {
+    padding: 0px:
+    margin: 0px;
+}
 #container {
     padding: 5px;
     width: 960px;
