@@ -87,12 +87,13 @@ body {
     border-top: 1px solid #a3a3a3;
     background-repeat: repeat-x;
     background-position: left top;
-    padding: 10px 0px 10px 0px;
+    padding: 20px 0px 20px 0px;
+    
 }
 
-#footer img, #footer div {
-    float: left;
-    margin: 16px 0px 0px 32px;
+#footer img {
+    margin-left: 16px;
+    margin-right: 16px;
 }
 
 /* Text Styling*/
