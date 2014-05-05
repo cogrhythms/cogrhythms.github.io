@@ -16,6 +16,7 @@
     float: right;
 }
 #footer {
+    height: 150px; /*uncertain of implications this has on media queries, need it because the footer no longer has any content that gives it height*/
     clear: both;
 }
 
@@ -77,7 +78,7 @@ body {
 }
 
 #footer {
-    background-color: #ddd;
+    background-color: #fff;
     background-image: url(../images/bottom-gradient.gif);
     border-top: 1px solid #a3a3a3;
     background-repeat: repeat-x;
