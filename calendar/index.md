@@ -1,11 +1,8 @@
 ---
-layout: default
+layout: subpage
 title: "Calendar"
 ---
 
-<div id="title">
-  Calendar
-</div>
 <div id="news">
   <p class="home" style="line-height: 1.3em;">[4-5 Jun 2013] CRC Conference: Rhythmic Dynamics and Cognition</p>
 
@@ -20,7 +17,7 @@ title: "Calendar"
 
   <p class="home" style="line-height: 1.3em;">[23 Feb 2012] CRC Dinner with speaker Matt Wilson</p>
 
-  <p class="home" style="line-height: 1.3em;">[1 Feb 2012] Mini-symposium <a href="img/CRC2012_Flyer.pdf">Beta Rhythms and Cognition</a>. Speakers: Earl Miller, Nancy Kopell, Stephanie Jones, Nicholas Schiff, Keith Purpura (Afternoon event with reception at the end)</p>
+  <p class="home" style="line-height: 1.3em;">[1 Feb 2012] Mini-symposium <a href="CRC2012_Flyer.pdf">Beta Rhythms and Cognition</a>. Speakers: Earl Miller, Nancy Kopell, Stephanie Jones, Nicholas Schiff, Keith Purpura (Afternoon event with reception at the end)</p>
 
   <p class="home" style="line-height: 1.3em;">[26 Jan 2012] Special Talk:  Natalie Adams, "Development of patterned activity in de novo neuronal networks," 4pm at BU</p>
 

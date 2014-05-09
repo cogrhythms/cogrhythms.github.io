@@ -1,346 +1,138 @@
-/*
- * Scaffolding
- *
- * Update the basics of our documents to prep for docs content.
- */
+/* Page structure */
+html, body {
+    padding: 0px;
+    margin: 0px;
+}
+#container {
+    padding: 5px;
+    width: 960px;
+    margin: 20px auto;
+}
+#header {
+    height: 130px;
+}
+#sidebar {
+    width: 150px;
+    float: left;
+}
+#content {
+    width: 780px;
+    float: right;
+}
+#footer {
+    height: 150px; /*uncertain of implications this has on media queries, need it because the footer no longer has any content that gives it height*/
+    clear: both;
+}
 
+/*************************************
+Media queries for various screen sizes
+**************************************/
+/* for 980px or less */
+@media screen and (max-width: 980px) {
+    
+    #container {
+	width: 94%;
+	}
+    #content {
+	width: 65%;
+	}
+    #sidebar {
+	width: 30%;
+	}
+
+}
+
+/* for 700px or less */
+@media screen and (max-width: 700px) {
+
+    #content {
+	width: auto;
+	float: none;
+	}
+    #sidebar {
+	width: auto;
+	float: none;
+	}
+
+}
+
+/* for 480px or less */
+@media screen and (max-width: 480px) {
+
+    #header {
+	height: auto;
+	}
+    h1 {
+	font-size: 24px;
+	}
+    #sidebar {
+	display: none;
+	}
+
+}
+
+/*************************
+Styling main page elements 
+**************************/
 body {
-    position: relative; /* For scrollyspy */
-    padding-top: 50px; /* Account for fixed navbar */
+    font-family: arial, sans-serif; 
+    color: #494949;
+    font-size: 13px; 
+    background-color: #fff;
 }
 
-/*
- * Main navigation
- *
- * Turn the `.navbar` at the top of the docs purple.
- */
-
-.crc-nav {
-    text-shadow: 0 -1px 0 rgba(0,0,0,.15);
-    background-color: #ca0000;
-    border-color: #A00000;
-    box-shadow: 0 1px 0 rgba(255,255,255,.1);
-}
-.crc-nav .navbar-collapse {
-    border-color: #A00000;
-}
-.crc-nav .navbar-brand {
-    color: #fff;
-}
-.crc-nav .navbar-nav > li > a {
-    color: #ffc8c8;
-}
-.crc-nav .navbar-nav > li > a:hover {
-    color: #fff;
-}
-.crc-nav .navbar-nav > .active > a,
-.crc-nav .navbar-nav > .active > a:hover {
-    color: #fff;
-    background-color: #9E0000;
-}
-.crc-nav .navbar-toggle {
-    border-color: #A00000;
-}
-.crc-nav .navbar-toggle:hover {
-    background-color: #A00000;
-    border-color: #A00000;
+#content, #sidebar {
+    padding-bottom: 50px;
 }
 
-
-/*
- * Footer
- *
- * Separated section of content at the bottom of all pages, save the homepage.
- */
-
-.crc-footer {
-    padding-top: 40px;
-    padding-bottom: 30px;
-    margin-top: 100px;
-    color: #777;
-    text-align: center;
-    border-top: 1px solid #e5e5e5;
-}
-.footer-links {
-    margin: 10px 0;
-    padding-left: 0;
-}
-.footer-links li {
-    display: inline;
-    padding: 0 2px;
-}
-.footer-links li:first-child {
-    padding-left: 0;
-}
-
-@media (min-width: 768px) {
-    .crc-footer {
-        text-align: left;
-    }
-    .crc-footer p {
-        margin-bottom: 0;
-    }
-}
-
-
-/*
- * Homepage
- *
- * Tweaks to the custom homepage and the masthead (main jumbotron).
- */
-
-/* Masthead (headings and download button) */
-.crc-masthead {
-    position: relative;
-    padding: 30px 15px;
-    text-align: center;
-    text-shadow: 0 1px 0 rgba(0,0,0,.15);
-}
-.crc-masthead h1 {
-    font-size: 50px;
-    line-height: 1;
-    color: #fff;
-}
-.crc-masthead .btn-outline-inverse {
-    margin: 10px;
-}
-
-/* Links to project-level content like the repo, Expo, etc */
-.crc-masthead-links {
-    margin-top: 20px;
-    margin-bottom: 40px;
-    padding: 0 15px;
-    list-style: none;
+#footer {
+    background-color: #fff;
+    background-image: url(../images/bottom-gradient.gif);
+    border-top: 1px solid #a3a3a3;
+    background-repeat: repeat-x;
+    background-position: left top;
+    padding: 20px 0px 20px 0px;
     text-align: center;
 }
-.crc-masthead-links li {
-    display: inline;
-}
-.crc-masthead-links li + li {
-    margin-left: 20px;
-}
-.crc-masthead-links a {
-    color: #fff;
+
+#footer img {
+    margin-left: 16px;
+    margin-right: 16px;
 }
 
-@media (min-width: 768px) {
-    .crc-masthead {
-        text-align: left;
-        padding-top:    140px;
-        padding-bottom: 140px;
-    }
-    .crc-masthead h1 {
-        font-size: 100px;
-    }
-    .crc-masthead .lead {
-        margin-right: 25%;
-        font-size: 30px;
-    }
-    .crc-masthead .btn-outline-inverse {
-        width: auto;
-        margin: 20px 5px 20px 0;
-        padding: 18px 24px;
-        font-size: 21px;
-    }
-    .crc-masthead-links {
-        padding: 0;
-        text-align: left;
-    }
+/* Text Styling*/
+
+a:link, a:hover, a:active, a:visited {
+    color: #ca0001;
 }
 
-
-/*
- * Page headers
- *
- * Jumbotron-esque headers at the top of every page that's not the homepage.
- */
-
-
-/* Page headers */
-
-.crc-header {
-    padding: 30px 15px 40px; /* side padding builds on .container 15px, so 30px */
-    font-size: 16px;
-    text-align: center;
-    text-shadow: 0 1px 0 rgba(0,0,0,.15);
-    color: #A00000;
-}
-.crc-header h1 {
-    color: #ca0000;
-}
-.crc-header p {
-    font-weight: 300;
-    line-height: 1.5;
-}
-.crc-header .container {
-    position: relative;
+h1 {
+    margin: 10px 0px 15px 0px;
+    padding: 0px 0px 5px 0px;
+    font-size: 20px;
+    color: #ca0001;
+    border-bottom: 2px solid #BBB;
 }
 
-@media (min-width: 768px) {
-    .crc-header {
-        font-size: 21px;
-        text-align: left;
-    }
-    .crc-header h1 {
-        font-size: 60px;
-        line-height: 1;
-    }
+h2 {
+    margin: 0px 0px 4px 0px; font-size: 14px; font-weight: bold;
 }
 
-@media (min-width: 992px) {
-    .crc-header h1,
-    .crc-header p {
-        margin-right: 380px;
-    }
+h3 {
+    font-size: 15px; font-weight: bold;
 }
 
-/*
- * Side navigation
- *
- * Scrollspy and affixed enhanced navigation to highlight sections and secondary
- * sections of docs content.
- */
-
-/* By default it's not affixed in mobile views, so undo that */
-.crc-sidebar.affix {
-    position: static;
+h4 {
+    font-size: 11px; font-weight: normal; font-style: italic; color: #ca0001;
 }
 
-/* First level of nav */
-.crc-sidenav {
-    margin-top: 30px;
-    margin-bottom: 30px;
-    padding-top:    10px;
-    padding-bottom: 10px;
-    text-shadow: 0 1px 0 #fff;
-    background-color: #f9f2f4;
-    border-radius: 5px;
+h5 {
+    font-size: 13px; font-weight: bold; margin: 25px 0px 15px 0px;
 }
 
-/* All levels of nav */
-.crc-sidebar .nav > li > a {
-    display: block;
-    color: #716b7a;
-    padding: 5px 20px;
+.hr {
+    width: 100%; 
+    height: 2px; 
+    margin: 10px 0px 10px 0px; 
+    background-color: #BBB;
 }
-.crc-sidebar .nav > li > a:hover,
-.crc-sidebar .nav > li > a:focus {
-    text-decoration: none;
-    background-color: #e5e3e9;
-    border-right: 1px solid #dbd8e0;
-}
-.crc-sidebar .nav > .active > a,
-.crc-sidebar .nav > .active:hover > a,
-.crc-sidebar .nav > .active:focus > a {
-    font-weight: bold;
-    color: #600000;
-    background-color: transparent;
-    border-right: 1px solid #600000;
-}
-
-/* Nav: second level (shown on .active) */
-.crc-sidebar .nav .nav {
-    display: none; /* Hide by default, but at >768px, show it */
-    margin-bottom: 8px;
-}
-.crc-sidebar .nav .nav > li > a {
-    padding-top:    3px;
-    padding-bottom: 3px;
-    padding-left: 30px;
-    font-size: 90%;
-}
-
-/* Show and affix the side nav when space allows it */
-@media (min-width: 992px) {
-    .crc-sidebar .nav > .active > ul {
-        display: block;
-    }
-    /* Widen the fixed sidebar */
-    .crc-sidebar.affix,
-    .crc-sidebar.affix-bottom {
-        width: 213px;
-    }
-    .crc-sidebar.affix {
-        position: fixed; /* Undo the static from mobile first approach */
-        top: 80px;
-    }
-    .crc-sidebar.affix-bottom {
-        position: absolute; /* Undo the static from mobile first approach */
-    }
-    .crc-sidebar.affix-bottom .crc-sidenav,
-    .crc-sidebar.affix .crc-sidenav {
-        margin-top: 0;
-        margin-bottom: 0;
-    }
-}
-@media (min-width: 1200px) {
-    /* Widen the fixed sidebar again */
-    .crc-sidebar.affix-bottom,
-    .crc-sidebar.affix {
-        width: 263px;
-    }
-}
-
-
-/*
- * Docs sections
- *
- * Content blocks for each component or feature.
- */
-
-/* Space things out */
-.crc-section + .crc-section {
-    padding-top: 40px;
-}
-
-/* Janky fix for preventing navbar from overlapping */
-h1[id] {
-    padding-top: 80px;
-    margin-top: -45px;
-}
-
-
-/*
- * Callouts
- *
- * Not quite alerts, but custom and helpful notes for folks reading the docs.
- * Requires a base and modifier class.
- */
-
-/* Common styles for all types */
-.crc-callout {
-    margin: 20px 0;
-    padding: 20px;
-    border-left: 3px solid #eee;
-}
-.crc-callout h4 {
-    margin-top: 0;
-    margin-bottom: 5px;
-}
-.crc-callout p:last-child {
-    margin-bottom: 0;
-}
-
-/* Variations */
-.crc-callout-danger {
-    background-color: #fdf7f7;
-    border-color: #eed3d7;
-}
-.crc-callout-danger h4 {
-    color: #b94a48;
-}
-.crc-callout-warning {
-    background-color: #faf8f0;
-    border-color: #faebcc;
-}
-.crc-callout-warning h4 {
-    color: #c09853;
-}
-.crc-callout-info {
-    background-color: #f4f8fa;
-    border-color: #bce8f1;
-}
-.crc-callout-info h4 {
-    color: #3a87ad;
-}
-

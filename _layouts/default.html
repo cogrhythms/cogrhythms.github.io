@@ -1,20 +1,22 @@
-{% include top.html %}
+<!DOCTYPE HTML>
+<html lang="en-US" ng-app>
+  {% include head.html %}
+  <body>
 
-<body>
+    <div id="container">
+      <div id="header">
+	{% include header.html %}
+      </div>
+      <div id="sidebar">
+	{% include side_nav.html %}
+      </div>
+      <div id="content">
+	{{ content }}
+      </div>
+    </div>
+    <div id="footer">
+      {% include footer.html %}
+    </div>
 
-{% include header.html %}
-
-<div id="content">
-
-{% include side_nav.html %}
- 
-	<div id="one-col">
-		{{ content }}
-	</div>
-
-</div>
-
-{% include footer.html %}
-
-</body>
+  </body>
 </html>
