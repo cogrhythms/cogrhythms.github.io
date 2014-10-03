@@ -85,6 +85,20 @@ body {
     padding-bottom: 50px;
 }
 
+#sidebar {
+    background-color: #efefef;
+    border: 1px solid #ccc;
+}
+
+#sidebar ul {
+	list-style-type: none;
+}
+
+#sidebar ul li ul {
+	list-style-type: disc;
+	padding-left: 15px;
+}
+
 #footer {
     background-color: #fff;
     background-image: url(../images/bottom-gradient.gif);
