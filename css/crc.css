@@ -90,13 +90,21 @@ body {
     border: 1px solid #ccc;
 }
 
-#sidebar ul {
-	list-style-type: none;
+#sidebar ul#crc_menu {
+    list-style-type: none;
+    padding-left: 15px;
+    line-height: 18px;
+}
+
+#sidebar #crc_menu .crc_menu_section {
+    padding-top: 15px;
+    font-weight: bold;
 }
 
 #sidebar ul li ul {
-	list-style-type: disc;
-	padding-left: 15px;
+    list-style-type: disc;
+    padding-left: 15px;
+    font-weight: bold; /* over-ride header bold*/
 }
 
 #footer {
