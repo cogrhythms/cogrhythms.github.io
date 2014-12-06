@@ -17,7 +17,7 @@ title: "Calendar"
 
   <p class="home" style="line-height: 1.3em;">[23 Feb 2012] CRC Dinner with speaker Matt Wilson</p>
 
-  <p class="home" style="line-height: 1.3em;">[1 Feb 2012] Mini-symposium <a href="CRC2012_Flyer.pdf">Beta Rhythms and Cognition</a>. Speakers: Earl Miller, Nancy Kopell, Stephanie Jones, Nicholas Schiff, Keith Purpura (Afternoon event with reception at the end)</p>
+  <p class="home" style="line-height: 1.3em;">[1 Feb 2012] Mini-symposium Beta Rhythms and Cognition. Speakers: Earl Miller, Nancy Kopell, Stephanie Jones, Nicholas Schiff, Keith Purpura (Afternoon event with reception at the end)</p>
 
   <p class="home" style="line-height: 1.3em;">[26 Jan 2012] Special Talk:  Natalie Adams, "Development of patterned activity in de novo neuronal networks," 4pm at BU</p>
 
@@ -33,10 +33,7 @@ title: "Calendar"
 
   <p class="home" style="line-height: 1.3em;">[2 May 2011] CRC Dinner with speakers Barry Connors and Erika Fanslow</p>
 
-  <p class="home" style="line-height: 1.3em;">[14 Apr 2011] CBD Spring
-  Mini-Symposium <a href="/links_files/CBD_2011symposium.doc">Brain
-  Rhythms and Audition</a> hosted by the Center for Biodynamics and Bahaa
-  Hariri Institute for Computational Science and Engineering
+  <p class="home" style="line-height: 1.3em;">[14 Apr 2011] CBD Spring Mini-Symposium Brain Rhythms and Audition</a> hosted by the Center for Biodynamics and Bahaa Hariri Institute for Computational Science and Engineering
   </p>
 
   <p class="home" style="line-height: 1.3em;">[15 Feb 2011] CRC Dinner with speaker Ed Boyden</p>
