@@ -104,7 +104,7 @@ body {
 #sidebar ul li ul {
     list-style-type: disc;
     padding-left: 15px;
-    font-weight: bold; /* over-ride header bold*/
+    font-weight: normal; /* over-ride header bold*/
 }
 
 #footer {
