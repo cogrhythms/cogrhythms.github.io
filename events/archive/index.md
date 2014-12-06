@@ -3,7 +3,7 @@ layout: subpage
 title: "Calendar"
 ---
 
-  [16 April 2014] [Mini-Symposium: Frontiers in Non-Invasive Brain Stimulation](Spring2014minisym.md)
+  [16 April 2014] Mini-Symposium: Frontiers in Non-Invasive Brain Stimulation - [Event flyer](CRC2014F-Mini-Symposium.pdf)
 
   [4-5 Jun 2013] CRC Conference: Rhythmic Dynamics and Cognition
 
