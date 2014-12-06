@@ -3,48 +3,47 @@ layout: subpage
 title: "Calendar"
 ---
 
-<div id="news">
-  <p class="home" style="line-height: 1.3em;">[4-5 Jun 2013] CRC Conference: Rhythmic Dynamics and Cognition</p>
+  [4-5 Jun 2013] CRC Conference: Rhythmic Dynamics and Cognition
 
-  <p class="home" style="line-height: 1.3em;">[27 Sep 2012] CRC Dinner with speaker Kevin Spencer</p>
+  [27 Sep 2012] CRC Dinner with speaker Kevin Spencer
 
-  <p class="home" style="line-height: 1.3em;">[10 Sep 2012] CRC Lecture by Robert Kass</p>
+  [10 Sep 2012] CRC Lecture by Robert Kass
 
-  <p class="home" style="line-height: 1.3em;">[25 Jun 2012] CRC Dinner with 
-  speaker Ed Boyden</p>
+  [25 Jun 2012] CRC Dinner with 
+  speaker Ed Boyden
 
-  <p class="home" style="line-height: 1.3em;">[4 Apr 2012] CRC Retreat</p>
+  [4 Apr 2012] CRC Retreat
 
-  <p class="home" style="line-height: 1.3em;">[23 Feb 2012] CRC Dinner with speaker Matt Wilson</p>
+  [23 Feb 2012] CRC Dinner with speaker Matt Wilson
 
-  <p class="home" style="line-height: 1.3em;">[1 Feb 2012] Mini-symposium Beta Rhythms and Cognition. Speakers: Earl Miller, Nancy Kopell, Stephanie Jones, Nicholas Schiff, Keith Purpura (Afternoon event with reception at the end)</p>
+  [1 Feb 2012] Mini-symposium Beta Rhythms and Cognition. Speakers: Earl Miller, Nancy Kopell, Stephanie Jones, Nicholas Schiff, Keith Purpura (Afternoon event with reception at the end)
 
-  <p class="home" style="line-height: 1.3em;">[26 Jan 2012] Special Talk:  Natalie Adams, "Development of patterned activity in de novo neuronal networks," 4pm at BU</p>
+  [26 Jan 2012] Special Talk:  Natalie Adams, "Development of patterned activity in de novo neuronal networks," 4pm at BU
 
-  <p class="home" style="line-height: 1.3em;">[16 Dec 2011] CRC Happy Hour 4-6</p>
+  [16 Dec 2011] CRC Happy Hour 4-6
 
-  <p class="home" style="line-height: 1.3em;">[12 Dec 2011] CRC Dinner with speaker Emery Brown</p>
+  [12 Dec 2011] CRC Dinner with speaker Emery Brown
 
-  <p class="home" style="line-height: 1.3em;">[7 Nov 2011] Grant Writing Seminar by Cyndi Bradham (<a href="http://www.bu.edu/neuro/graduate/professional-development-resources">Slides</a>)</p>
+  [7 Nov 2011] Grant Writing Seminar by Cyndi Bradham (<a href="http://www.bu.edu/neuro/graduate/professional-development-resources">Slides</a>)
 
-  <p class="home" style="line-height: 1.3em;">[17 Oct 2011] CRC Dinner with speaker Earl Miller</p>
+  [17 Oct 2011] CRC Dinner with speaker Earl Miller
 
-  <p class="home" style="line-height: 1.3em;">[12 July 2011] Talk by Yale Cohen on auditory processing</p>
+  [12 July 2011] Talk by Yale Cohen on auditory processing
 
-  <p class="home" style="line-height: 1.3em;">[2 May 2011] CRC Dinner with speakers Barry Connors and Erika Fanslow</p>
+  [2 May 2011] CRC Dinner with speakers Barry Connors and Erika Fanslow
 
-  <p class="home" style="line-height: 1.3em;">[14 Apr 2011] CBD Spring Mini-Symposium Brain Rhythms and Audition</a> hosted by the Center for Biodynamics and Bahaa Hariri Institute for Computational Science and Engineering
-  </p>
+  [14 Apr 2011] CBD Spring Mini-Symposium Brain Rhythms and Audition</a> hosted by the Center for Biodynamics and Bahaa Hariri Institute for Computational Science and Engineering
+  
 
-  <p class="home" style="line-height: 1.3em;">[15 Feb 2011] CRC Dinner with speaker Ed Boyden</p>
+  [15 Feb 2011] CRC Dinner with speaker Ed Boyden
 
-  <p class="home" style="line-height: 1.3em;">[10 Dec 2010] CRC Dinner with speaker Mingzhou Ding</p>
+  [10 Dec 2010] CRC Dinner with speaker Mingzhou Ding
 
-  <p class="home" style="line-height: 1.3em;">[26 Oct 2010] CRC Dinner with speaker Syd Cash</p>
+  [26 Oct 2010] CRC Dinner with speaker Syd Cash
 
-  <p class="home" style="line-height: 1.3em;">[11 Aug 2010] CRC Dinner with speaker Miles Whittington</p>
+  [11 Aug 2010] CRC Dinner with speaker Miles Whittington
 
-  <p class="home" style="line-height: 1.3em;">[28 Jun 2010] CRC Dinner with speakers Barb Shinn-Cunningham and Matti H&auml;m&auml;l&auml;inen</p>
+  [28 Jun 2010] CRC Dinner with speakers Barb Shinn-Cunningham and Matti H&auml;m&auml;l&auml;inen
 
-  <p class="home" style="line-height: 1.3em;">[9 Mar 2010] CRC Dinner with speaker Mark Kramer</p>
-</div>
+  [9 Mar 2010] CRC Dinner with speaker Mark Kramer
+
