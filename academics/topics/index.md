@@ -3,7 +3,7 @@ layout: subpage
 title: "Research - Topics"
 ---
 
-<p><a href="people_faculty.htm">Researchers</a> are listed below each major research area</p>
+<p>Researchers are listed below each major research area</p>
 <p>Last update: 1 October 2012</p>
 
 <h1>"Wired" project</h1>
