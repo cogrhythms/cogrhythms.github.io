@@ -1,7 +1,7 @@
 ---
 layout: subpage
 title: "Spring 2014 Mini-Symposium: Frontiers in Non-Invasive Brain Stimulation"
-
+---
 ### Cognitive Rhythms Collaborative and Center for Computational Neuroscience and Neural Technology
 
 ### Wednesday, April 16, 2014 at 1 pm
