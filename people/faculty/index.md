@@ -3,7 +3,6 @@ layout: subpage
 title: "People - Faculty"
 ---
 
-####Click on a name to view or hide details. Last update: 10 December 2012
 ##Director
 ###Nancy Kopell
 ####Boston University
