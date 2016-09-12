@@ -5,5 +5,5 @@ pygments: true
 source: .
 # These can be edited by us
 name: Cognitive Rhythms Collaborative
-markdown: redcarpet
+markdown: kramdown
 baseurl: /

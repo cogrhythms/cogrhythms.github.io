@@ -1,18 +1,25 @@
-{% include top.html %}
+{% include head.html %}
 
 <body>
 
-{% include header.html %}
+{% include top.html %}
 
-<div id="content">
+{% include nav.html %}
 
-{% include side_nav.html %}
- 
-	<div id="one-col">
-		{{ content }}
-	</div>
+
+<!-- Page Content -->
+<div class="container">
+
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            {{ content }}
+        </div>
+    </div>
+    <!-- /.row -->
 
 </div>
+<!-- /.container -->
+
 
 {% include footer.html %}
 
