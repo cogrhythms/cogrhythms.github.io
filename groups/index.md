@@ -7,13 +7,7 @@ title: "Groups"
 
 Group names, typical meeting times, and points of contact
 
-## Alpha rhythms
-
-  * Led by Nancy Kopell and Sujith Vijayan
-  * Mechanisms underlying alpha
-  * Role of alpha in attention and cognitive tasks
-
-## Auditory attention
+## Auditory attention (TBD)
 
   * Led by Dan Polley
   * Interaction of thalamus and cortex
@@ -22,9 +16,16 @@ Group names, typical meeting times, and points of contact
 
 ## Beta rhythms
 
-  * Led by Lara Rangel
+  * Led by Daniel Gibson
   * Role of beta in learning, movement, and attention
   * Identification of other common beta themes
+
+## Decision Making (Th 2-3)
+
+## Parkinson's Disease (Th 11:30-12:30)
+
+  * Led by Michelle McCarthy
+  * Focus on beta oscillations in PD
 
 ## Methods of data analysis (Fri 10:30-12:00)
 

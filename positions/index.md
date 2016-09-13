@@ -3,6 +3,6 @@ layout: default
 title: "Positions"
 ---
 
- # Positions
+# Positions
  
  None at this time.

@@ -3,7 +3,7 @@ layout: default
 title: "Contact"
 ---
 
-## For more information or to be added to the CRC email distribution, please contact either of the following:
+**For more information or to be added to the CRC email distribution, please contact either of the following:**
 
 Xiaoshi Shi  
 Boston University  
