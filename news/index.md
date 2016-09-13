@@ -35,6 +35,6 @@ title: Cognitive Rhythms Collaborative
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
 
-    <div class="fb-page" data-href="https://www.facebook.com/cogrhythms" data-tabs="timeline" data-width="500" data-height="1000" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/cogrhythms" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/cogrhythms">Cognitive Rhythms Collaborative</a></blockquote></div>
+    <div class="fb-page" data-href="https://www.facebook.com/cogrhythms" data-tabs="timeline" data-width="500" data-height="1000" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/cogrhythms" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/cogrhythms">Facebook: Cognitive Rhythms Collaborative</a></blockquote></div>
   </div>
 </div>
