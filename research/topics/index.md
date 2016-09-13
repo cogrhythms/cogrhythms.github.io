@@ -5,7 +5,7 @@ title: Research - Topics
 
 # Research: Topics
 
-[Researchers](people_faculty.htm) are listed below each major research area
+[Researchers]({{ site.url }}{{ site.baseurl }}people/faculty/) are listed below each major research area
 
 Last update: 1 October 2012
 
