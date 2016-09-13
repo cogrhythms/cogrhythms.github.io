@@ -1,7 +1,7 @@
 # These are set by GitHub Pages
 safe: true
 lsi: false
-pygments: true
+highlighter: rouge
 source: .
 # These can be edited by us
 name: Cognitive Rhythms Collaborative
