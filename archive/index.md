@@ -6,7 +6,6 @@ title: "Cognitive Rhythms Collaborative"
 # Archive  
 
 ## [Rhythmic Dynamics and Cognition]({{site.url}}/img/RhythmicDynamicsCognition_crc2013.pdf)
----------------------------------
 
 ### June 4-5, 2013  
 
