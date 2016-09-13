@@ -9,3 +9,4 @@ A note about [GitHub pages](http://pages.github.com): For project pages, whateve
 
 Here's Erik's list of things that still need fixing on this site:
 * We should probably move lists of data to files in the `_data` directory. More info on how to work with those can be found at [jekyllrb.com/docs/datafiles/](http://jekyllrb.com/docs/datafiles/).
+* Need accordian on faculty page.
