@@ -15,4 +15,4 @@ title: Cognitive Rhythms Collaborative
 
 <h1>News and Upcoming Events</h1>
 
-<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/hashtag/bostoncrc" data-widget-id="775568585481748480">#bostoncrc Tweets</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/hashtag/BostonCRC" data-widget-id="774610640631627776">#BostonCRC Tweets</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
