@@ -18,9 +18,9 @@ title: Cognitive Rhythms Collaborative
 <!-- <a class="twitter-timeline" href="https://twitter.com/BostonCRC">Tweets by BostonCRC</a>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F940054509455212%2F&tabs=timeline&width=500&height=600&small_header=false&adapt_container_width=true&hide_cover=true&show_facepile=false&appId" width="500" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<!-- <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F940054509455212%2F&tabs=timeline&width=500&height=600&small_header=false&adapt_container_width=true&hide_cover=true&show_facepile=false&appId" width="500" height="600" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe> -->
 
-<!-- <div id="fb-root"></div>
+<div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -29,4 +29,4 @@ title: Cognitive Rhythms Collaborative
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<div class="fb-page" data-href="https://www.facebook.com/groups/940054509455212/" data-tabs="timeline" data-width="500" data-height="600" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div> -->
+<div class="fb-page" data-href="https://www.facebook.com/cogrhythms/" data-tabs="timeline" data-width="500" data-height="600" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"></div>
