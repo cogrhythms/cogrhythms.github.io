@@ -5,19 +5,20 @@ title: Cognitive Rhythms Collaborative
 
 # News and Social Media
 
-<div class="row">
-  <!-- Twitter -->
-  <!-- @BostonCRC -->
+<!-- Twitter -->
+<!-- @BostonCRC -->
+<!-- <div class="row">
   <div class="col-md-5">
     <a class="twitter-timeline" href="https://twitter.com/BostonCRC">Tweets by BostonCRC</a>
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
-</div>
+</div> -->
 
 <div class="row">
   <!-- Twitter -->
+  <!-- #BostonCRC -->
   <div class="col-md-5">
-    <!-- #BostonCRC -->
+    
     <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/hashtag/BostonCRC" data-widget-id="775744703274835968">#BostonCRC Tweets</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </div>
   
