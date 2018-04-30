@@ -35,4 +35,4 @@ Group names, typical meeting times, and points of contact
   * Time-Frequency analysis: contours of constant phase
   * Estimating phases
 
-For more information, please contact <a href="http://www.google.com/recaptcha/mailhide/d?k=018K5pfGpMSS8-hHYu860KCQ==&amp;c=EtFZ7VMgG5JLQB92EnK3flyRFXFkTiv_B3E2mO6CYXw=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\075018K5pfGpMSS8-hHYu860KCQ\75\75\46c\75EtFZ7VMgG5JLQB92EnK3flyRFXFkTiv_B3E2mO6CYXw\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">cogweb at math.bu.edu</a>
+For more information, please contact *cogweb at math.bu.edu*
